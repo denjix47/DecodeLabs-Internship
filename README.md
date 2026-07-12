@@ -39,7 +39,7 @@ approach, and reasoning behind key decisions.
 ├── README.md                 
 └── project-1/
     ├── README.md
-    ├── project1_eda_feature_engineering.py
+    ├── Project_1.ipynb
     ├── cleaned_dataset.csv
     ├── cleaned_dataset_encoded.csv
     └── boxplots_before_capping.png
