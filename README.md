@@ -21,7 +21,7 @@ approach, and reasoning behind key decisions.
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 1 | [Advanced EDA & Feature Engineering](./project-1/) | Missing value imputation, outlier handling, feature engineering | ✅ Complete |
+| 1 | [Advanced EDA & Feature Engineering](./Project%201/) | Missing value imputation, outlier handling, feature engineering | ✅ Complete |
 
 *(More projects will be added here as the internship progresses.)*
 
