@@ -36,9 +36,11 @@ approach, and reasoning behind key decisions.
 
 ```
 .
-├── README.md                
+├── README.md                 
 └── project-1/
     ├── README.md
-    ├── Project_1.ipynb
-    └── Dataset for Data Analytics.xlsx
+    ├── project1_eda_feature_engineering.py
+    ├── cleaned_dataset.csv
+    ├── cleaned_dataset_encoded.csv
+    └── boxplots_before_capping.png
 ```
