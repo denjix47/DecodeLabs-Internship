@@ -10,7 +10,7 @@
 
 This repository contains the projects completed during my Data Science internship
 at Decode Labs. The internship is learning-focused, with each project building
-hands-on skills in a specific part of the data science workflow — starting with
+hands-on skills in a specific part of the data science workflow starting with
 data preprocessing and feature engineering, and progressing toward more advanced
 topics over the course of the program.
 
