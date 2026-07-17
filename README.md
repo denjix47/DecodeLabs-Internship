@@ -42,5 +42,8 @@ approach, and reasoning behind key decisions.
     ├── Project_1.ipynb
     ├── cleaned_dataset.csv
     ├── cleaned_dataset_encoded.csv
-    └── boxplots_before_capping.png
+    ├── boxplots_before_capping.png
+└── project-3/
+    ├── README.md
+    └── Project_3.ipynb
 ```
